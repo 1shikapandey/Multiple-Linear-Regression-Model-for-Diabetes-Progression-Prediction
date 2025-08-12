@@ -42,26 +42,12 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ▶️ How to Run
 Clone this repository:
+git clone https://github.com/1shikapandey/Multiple-Linear-Regression-Model-for-Diabetes-Progression-Prediction.git
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/diabetes-mlr.git
 Navigate to the project directory:
+cd Multiple-Linear-Regression-Model-for-Diabetes-Progression-Prediction
 
-bash
-Copy
-Edit
-cd diabetes-mlr
 Run the Jupyter Notebook or Python file:
-
-bash
-Copy
-Edit
-jupyter notebook diabetes_mlr.ipynb
+jupyter notebook Multiple-Linear-Regression-Model-for-Diabetes-Progression-Prediction.ipynb
 or
-
-bash
-Copy
-Edit
-python diabetes_mlr.py
+python Multiple-Linear-Regression-Model-for-Diabetes-Progression-Prediction.py
