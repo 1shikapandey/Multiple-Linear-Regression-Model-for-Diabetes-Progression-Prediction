@@ -2,7 +2,7 @@
 A machine learning project using Multiple Linear Regression (MLR) on the Scikit-learn Diabetes dataset to predict disease progression based on 10 medical features. The model is trained, tested, and evaluated using performance metrics like MSE, RMSE, and R² score, with visualizations for better insight.
 
 
-## 📌 Overview
+## Overview
 This project applies **Multiple Linear Regression (MLR)** to the Scikit-learn **Diabetes dataset** to predict the progression of diabetes based on medical and physiological data.  
 It demonstrates data exploration, preprocessing, model building, evaluation, and visualization.
 
