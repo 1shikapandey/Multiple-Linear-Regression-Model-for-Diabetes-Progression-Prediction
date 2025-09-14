@@ -36,7 +36,7 @@ It demonstrates data exploration, preprocessing, model building, evaluation, and
 
 ---
 
-## 📌 Requirements
+## Requirements
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 
