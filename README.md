@@ -8,7 +8,7 @@ It demonstrates data exploration, preprocessing, model building, evaluation, and
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** `sklearn.datasets.load_diabetes`
 - **Samples:** 442
 - **Features:** 10 numerical predictors (e.g., BMI, blood pressure, age)
