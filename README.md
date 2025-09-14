@@ -16,7 +16,7 @@ It demonstrates data exploration, preprocessing, model building, evaluation, and
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. Load and explore dataset
 2. Convert to DataFrame and analyze correlations
 3. Train-test split (80-20)
